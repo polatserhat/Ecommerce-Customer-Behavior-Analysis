@@ -1,6 +1,10 @@
 # Ecommerce-Customer-Behavior-Analysis
 E-commerce customer behavior analysis and interactive dashboard developed using Power BI.
-## Dashboard Preview
+This project was developed as part of a university Business Intelligence course. The goal was to analyze e-commerce customer behavior and transform data into meaningful insights through interactive Power BI dashboards.
+
+Tools & Technologies: Microsoft Power BI, Data Visualization, Business Intelligence
+
+The project consists of six dashboard pages exploring customer purchasing patterns, spending behavior, and key business metrics.
 
 
 ## Dashboard Preview
